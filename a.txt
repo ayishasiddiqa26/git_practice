@@ -1,1 +1,1 @@
-first file
+This file is changed and staged
