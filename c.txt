@@ -1,1 +1,1 @@
-third file
+this is c.txt file
