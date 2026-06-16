@@ -1,2 +1,3 @@
 Changing another file called b.txt
 change 1
+change 2
