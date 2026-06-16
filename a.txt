@@ -2,3 +2,4 @@ merged: main and other version
 change 1
 change 2
 change 3
+message error fixing in git commit
