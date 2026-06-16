@@ -1,1 +1,1 @@
-this is b.txt file
+Changing another file called b.txt
