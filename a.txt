@@ -3,3 +3,4 @@ change 1
 change 2
 change 3
 message error fixing in git commit
+I am modifying this file
