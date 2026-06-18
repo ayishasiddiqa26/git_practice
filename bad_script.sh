@@ -2,4 +2,4 @@
 
 FILE=$1
 
-cat $FILE
+cat "$FILE"
