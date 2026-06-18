@@ -1,5 +1,5 @@
 #!/bin/bash
 
-NAME="Ayisha"
+FILE=$1
 
-echo Hello $NAME
+cat $FILE
